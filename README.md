@@ -7,7 +7,7 @@
   ayhandursunsanli@gmail.com
 </p>
 
-- Neos [Web Site](https://ne-website.netlify.app/)
+- Neos [Web Site]([https://ne-website.netlify.app/](https://www.neosyazilim.com/))
 - Neos [Admin Panel](https://neos-admin-panel.netlify.app/)
 - Lampada [e-Commerce Site](http://ayhandursunsanli.pythonanywhere.com/y.app/)
 - Newhousemedia [Web Site](https://newhousemedya.com/)
