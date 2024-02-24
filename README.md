@@ -7,9 +7,9 @@
   ayhandursunsanli@gmail.com
 </p>
 
-- Neos [Web Site](https://www.neosyazilim.com/)
+[- Neos [Web Site](https://www.neosyazilim.com/)
 - Neos [Admin Panel](https://neos-admin-panel.netlify.app/)
-- Newhousemedia [Web Site](https://newhousemedya.com/)
+- Newhousemedia [Web Site](https://newhousemedya.com/)](url)
 
 
 <h3 align="left">Languages and Tools:</h3>
